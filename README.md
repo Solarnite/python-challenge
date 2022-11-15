@@ -14,7 +14,7 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
-
+------------------------------------------------------------------
 For PyPoll
 
 The task was to create a Python script that analyzes the votes and calculates each of the following values:
